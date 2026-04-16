@@ -1,0 +1,7 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.AssemblyReference.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs - Hiba\myConsoleProjects.cs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.pdb
