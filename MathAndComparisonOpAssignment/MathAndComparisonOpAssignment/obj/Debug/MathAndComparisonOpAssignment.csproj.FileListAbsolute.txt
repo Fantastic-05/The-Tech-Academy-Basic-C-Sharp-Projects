@@ -1,0 +1,6 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\bin\Debug\MathAndComparisonOpAssignment.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\bin\Debug\MathAndComparisonOpAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\bin\Debug\MathAndComparisonOpAssignment.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\obj\Debug\MathAndComparisonOpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\obj\Debug\MathAndComparisonOpAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MathAndComparisonOpAssignment\MathAndComparisonOpAssignment\obj\Debug\MathAndComparisonOpAssignment.pdb
