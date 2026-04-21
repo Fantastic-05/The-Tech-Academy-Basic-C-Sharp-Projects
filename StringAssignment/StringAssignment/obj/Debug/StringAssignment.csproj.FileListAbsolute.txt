@@ -1,0 +1,7 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
