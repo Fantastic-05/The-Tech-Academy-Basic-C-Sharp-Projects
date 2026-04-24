@@ -1,0 +1,7 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\bin\Debug\ConsoleAppStringsAndIntAssign.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\bin\Debug\ConsoleAppStringsAndIntAssign.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\bin\Debug\ConsoleAppStringsAndIntAssign.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\obj\Debug\ConsoleAppStringsAndIntAssign.csproj.AssemblyReference.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\obj\Debug\ConsoleAppStringsAndIntAssign.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\obj\Debug\ConsoleAppStringsAndIntAssign.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsAndIntAssign\ConsoleAppStringsAndIntAssign\obj\Debug\ConsoleAppStringsAndIntAssign.pdb
