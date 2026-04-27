@@ -1,0 +1,6 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassAssignment\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
