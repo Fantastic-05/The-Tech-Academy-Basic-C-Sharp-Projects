@@ -1,0 +1,6 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\bin\Debug\LambdaExpressionsAssignment.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\bin\Debug\LambdaExpressionsAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\bin\Debug\LambdaExpressionsAssignment.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\obj\Debug\LambdaExpressionsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\obj\Debug\LambdaExpressionsAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionsAssignment\LambdaExpressionsAssignment\obj\Debug\LambdaExpressionsAssignment.pdb
