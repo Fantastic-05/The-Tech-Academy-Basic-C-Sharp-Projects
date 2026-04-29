@@ -1,0 +1,7 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
