@@ -1,0 +1,2 @@
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\saif_\OneDrive\Desktop\AOL Learning\Hiba\My Exam Folder\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
